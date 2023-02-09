@@ -1,6 +1,6 @@
 <!--HelloWorld.vue-->
 <template>
-  <button type="button" @click="onClick">count is: {{ count }}</button>
+   <n-button type="primary">这是一个按钮</n-button>
 </template>
 
 <script setup lang="ts">
